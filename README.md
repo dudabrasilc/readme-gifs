@@ -1,8 +1,7 @@
 #Adding gifs to README.md file
 
 
-
-![](readme-gifs/gifs-readme/gif-example.gif)
+![](readme-gifs/gif-example.gif)
 
 
 
